@@ -8,6 +8,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelein&layout=compact&langs_count=9" />
 </a>
 
+---
+
+<table>
+<tr>
+	<td><img align="center" src="https://github-readme-stats.vercel.app/api?username=kelein&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&hide_rank=false" /></td>
+	<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelein&layout=compact&langs_count=9" /></td>
+</tr>
+</table>
+
 
 <!--
 **kelein/kelein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
