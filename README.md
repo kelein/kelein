@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kelein&count_private=true&show_icons=true&include_all_commits=true&hide=contribs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelein&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&hide_rank=false" />
 </a>
 
 <a href="#">
