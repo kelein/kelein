@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-![Kallen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelein&count_private=true&show_icons=true)
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kelein&count_private=true&show_icons=true&include_all_commits=true&hide=contribs" />
+</a>
 
-[![Kallen's Toplangs](https://github-readme-stats.vercel.app/api/top-langs?username=kelein&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelein&layout=compact&langs_count=9" />
+</a>
 
 
 <!--
