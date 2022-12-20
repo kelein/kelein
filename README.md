@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelein&theme=github) | ![](https://github-readme-streak-stats.herokuapp.com/?user=kelein) |
 |:-------:|:-------:|
-| ![](https://github-readme-stats.vercel.app/api?username=kelein&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&hide_rank=false) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=kelein&layout=compact&langs_count=8) |
+| ![](https://github-readme-stats.vercel.app/api?username=kelein&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&hide_rank=false) | ![](https://github-readme-stats.vercel.app/api/top-langs?username=kelein&layout=compact&langs_count=6) |
 
 
 <!-- <img align="left" width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelein&theme=github" />
