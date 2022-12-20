@@ -12,7 +12,7 @@
   </tr>
   <tr>
    <td style="background-color: white"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kelein&count_private=true&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&hide_rank=false" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelein&layout=compact&langs_count=9" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelein&layout=compact&langs_count=6" /></td>
 <!--     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelein&theme=default" /></td>   -->
   </tr>
 </table>
